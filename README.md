@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rogelio Chávez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a full-stack web developer with experience in building modern, scalable applications optimized for user experience. I specialize in Next.js, NestJS, and PostgreSQL databases, using ORMs such as Prisma and Drizzle.
+I am a full-stack web developer with experience in building modern applications. I specialize in Next.js, NestJS, and PostgreSQL databases, using ORMs such as Prisma and Drizzle.
 
 <h2>About Me</h2>
 
